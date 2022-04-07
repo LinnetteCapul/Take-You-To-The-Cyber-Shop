@@ -20,7 +20,7 @@
 
  * GitHub Repository Link: https://github.com/LinnetteCapul/Take-You-To-The-Cyber-Shop
 
- * Demonstration Video: 
+ * Demonstration Video: https://drive.google.com/file/d/1LgRV2qDbHxyTB4NGwjHCFqAPrrKDpPqK/view
   
   ## Installation
   
@@ -50,11 +50,13 @@
 
   ## Screenshots
   
-  ![cyber-shop-screenshot01]()
+  ![cyber-shop-screenshot01](https://raw.githubusercontent.com/LinnetteCapul/Take-You-To-The-Cyber-Shop/main/assets/cyber-shop-screenshot01.JPG)
   
-  Example of GET route for categories in Insomnia displaying data in JSON format.
+  Example of GET route for `/api/categories` in Insomnia displaying data in JSON format.
 
   
   <br>
   
-  ![]()
+  ![cyber-shop-screenshot02]()
+
+  Example of POST route for `/api/tags` in Insomnia displaying data in JSON format.
