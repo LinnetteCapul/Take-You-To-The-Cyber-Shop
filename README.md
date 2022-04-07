@@ -50,13 +50,13 @@
 
   ## Screenshots
   
-  ![cyber-shop-screenshot01](https://raw.githubusercontent.com/LinnetteCapul/Take-You-To-The-Cyber-Shop/main/assets/cyber-shop-screenshot01.JPG)
+  ![cyber-shop-screenshot01.JPG](https://raw.githubusercontent.com/LinnetteCapul/Take-You-To-The-Cyber-Shop/main/assets/images/cyber-shop-screenshot01.JPG)
   
   Example of GET route for `/api/categories` in Insomnia displaying data in JSON format.
 
   
   <br>
   
-  ![cyber-shop-screenshot02]()
+  ![cyber-shop-screenshot02.jpg](https://raw.githubusercontent.com/LinnetteCapul/Take-You-To-The-Cyber-Shop/main/assets/images/cyber-shop-screenshot02.JPG)
 
   Example of POST route for `/api/tags` in Insomnia displaying data in JSON format.
